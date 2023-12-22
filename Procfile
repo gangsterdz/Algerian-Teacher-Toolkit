@@ -1,0 +1,1 @@
+web: genicorn personal_portfolio.wsgi --log-file -
